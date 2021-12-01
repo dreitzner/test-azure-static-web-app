@@ -27,6 +27,9 @@
 	</h2>
 
 	<Counter />
+
+	<h2>Svackages Logo</h2>
+	<img src="logo.png" alt="svackages logo">
 </section>
 
 <style>
