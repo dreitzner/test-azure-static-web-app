@@ -26,6 +26,8 @@
 		try editing <strong>src/routes/index.svelte</strong>
 	</h2>
 
+	<p>We are running on Azure static web apps</p>
+
 	<Counter />
 </section>
 
