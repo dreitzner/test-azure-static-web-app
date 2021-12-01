@@ -38,6 +38,7 @@
 		justify-content: center;
 		align-items: center;
 		flex: 1;
+		background-color: paleturquoise;
 	}
 
 	h1 {
