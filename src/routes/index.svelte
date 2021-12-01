@@ -29,6 +29,9 @@
 	<p>We are running on Azure static web apps</p>
 
 	<Counter />
+
+	<h2>Svackages Logo</h2>
+	<img src="logo.png" alt="svackages logo">
 </section>
 
 <style>
